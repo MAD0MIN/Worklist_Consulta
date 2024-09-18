@@ -1,0 +1,12 @@
+<config>
+    <worklist>
+        <ip>127.0.0.1/ip>
+        <port>104</port>
+        <aet>PACS_WL</aet>
+    </worklist>
+    <program>
+        <ip>127.0.0.1</ip>
+        <port>11118</port>
+        <aet>TEST</aet>
+    </program>
+</config>
